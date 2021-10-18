@@ -58,7 +58,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</figcaption></a>
+                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -69,7 +69,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</figcaption></a>
+                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -80,7 +80,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</figcaption></a>
+                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -91,7 +91,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</figcaption></a>
+                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -102,7 +102,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</figcaption></a>
+                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -113,7 +113,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 9: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</figcaption></a>
+                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 9: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -121,10 +121,10 @@
             </section>
         </main>
         <footer class="piepagina">
-            <a href="../index.php"><img src="../webroot/css/img/atras.png" class="imageatras" alt="IconoAtras" /></a>
-            <a href="https://github.com/AlbertoFRSauces/proyectoDAW/tree/master/proyectoDWES" target="_blank"><img href="https://github.com/AlbertoFRSauces/proyectoDAW/tree/master/proyectoDWES" target="_blank" src="../webroot/css/img/github.png" class="imagegithub" alt="IconoGitHub" /></a>
+            <a href="../index.php"><img src="../proyectoDWES/webroot/css/img/atras.png" class="imageatras" alt="IconoAtras" /></a>
+            <a href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank"><img href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank" src="../proyectoDWES/webroot/css/img/github.png" class="imagegithub" alt="IconoGitHub" /></a>
             <p><a>&copy;</a>Alberto Fernández Ramírez 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 13/10/2021 18:59</p>
+            <p>Ultima actualización: 18/10/2021 16:59</p>
         </footer>
     </body>
 </html>
