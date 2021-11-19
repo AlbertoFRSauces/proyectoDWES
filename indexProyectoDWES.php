@@ -10,7 +10,7 @@
         <meta name="keywords" content="analítica web, seo, web semántica, seo semántico, analytics" >
         <meta name="robots" content="index, follow">
         <link href="webroot/css/estilo.css" rel="stylesheet" type="text/css">
-        <link rel="icon" href="../img/home.png" type="image/x-icon">
+        <link rel="icon" href="../proyectoDWES/webroot/css/img/home.png" type="image/x-icon">
     </head>
     <body>
         <header>
@@ -58,7 +58,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</figcaption></a>
+                                <a href="../proyectoTema4/indexProyectoTema4.php"><figcaption class="titulofoto">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -124,7 +124,7 @@
             <a href="../index.php"><img src="../proyectoDWES/webroot/css/img/atras.png" class="imageatras" alt="IconoAtras" /></a>
             <a href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank"><img href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank" src="../proyectoDWES/webroot/css/img/github.png" class="imagegithub" alt="IconoGitHub" /></a>
             <p><a>&copy;</a>Alberto Fernández Ramírez 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 18/10/2021 16:59</p>
+            <p>Ultima actualización: 02/11/2021 16:59</p>
         </footer>
     </body>
 </html>
