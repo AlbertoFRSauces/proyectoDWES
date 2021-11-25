@@ -69,7 +69,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</figcaption></a>
+                                <a href="../207DWESProyectoTema5/indexProyectoTema5.php"><figcaption class="titulofoto">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</figcaption></a>
                             </figure>
                         </td>
                     </tr>
