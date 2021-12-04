@@ -5,10 +5,11 @@
 
 **Fecha Inicio Proyecto: 15/10/2021**
 
-**Ultima Actualización: 25/11/2021**
+**Ultima Actualización: 04/12/2021**
 
 ## Descripción 
 Estructura del proyectoDWES el cual contiene mi web para esa asignatura.
+En este apartado se encuentran los TEMAS de la asignatura.
 
 ## Front end
 - HTML
@@ -19,6 +20,6 @@ Estructura del proyectoDWES el cual contiene mi web para esa asignatura.
 
 ## Entornos
 ### Desarrollo (local)
--  http://daw207.sauces.local/proyectoDWES/indexProyectoDWES.php
+-  http://daw207.sauces.local/proyectoDWES
 ### Explotación (1&1)
--  http://daw207.ieslossauces.es/proyectoDWES/indexProyectoDWES.php
+-  http://daw207.ieslossauces.es/proyectoDWES
