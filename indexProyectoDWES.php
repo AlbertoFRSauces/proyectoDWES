@@ -80,6 +80,28 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
+                                <a href="../207DWESLoginLogoutTema5/indexProyectoLoginLogoutTema5.php"><figcaption class="titulofoto">Proyecto LoginLogout Tema5</figcaption></a>
+                            </figure>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+            <section class="primerasfilas">
+                <table class="tabla">
+                    <tr class="bordetitulo">
+                        <td>
+                            <figure>
+                                <a href="../207DWESMtoDepartamentosTema5/indexProyectoMtoDepartamentosTema5.php"><figcaption class="titulofoto">Proyecto MtoDepartamentos Tema5</figcaption></a>
+                            </figure>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+            <section class="primerasfilas">
+                <table class="tabla">
+                    <tr class="bordetitulo">
+                        <td>
+                            <figure>
                                 <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</figcaption></a>
                             </figure>
                         </td>
@@ -108,23 +130,12 @@
                     </tr>
                 </table>
             </section>
-            <section class="primerasfilas">
-                <table class="tabla">
-                    <tr class="bordetitulo">
-                        <td>
-                            <figure>
-                                <a href="../proyectoDWES/webroot/css/img/imgconstruction.jpg"><figcaption class="titulofoto">TEMA 9: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</figcaption></a>
-                            </figure>
-                        </td>
-                    </tr>
-                </table>
-            </section>
         </main>
         <footer class="piepagina">
             <a href="../index.php"><img src="../proyectoDWES/webroot/css/img/atras.png" class="imageatras" alt="IconoAtras" /></a>
             <a href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank"><img href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank" src="../proyectoDWES/webroot/css/img/github.png" class="imagegithub" alt="IconoGitHub" /></a>
-            <p><a>&copy;</a>Alberto Fernández Ramírez 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 02/11/2021 16:59</p>
+            <p><a>&copy;</a><a href="http://daw207.ieslossauces.es/index.php">Alberto Fernández Ramírez</a> 29/09/2021 Todos los derechos reservados.</p>
+            <p>Ultima actualización: 04/12/2021 18:36 - Release 1.3</p>
         </footer>
     </body>
 </html>
