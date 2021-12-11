@@ -5,11 +5,11 @@
 
 **Fecha Inicio Proyecto: 15/10/2021**
 
-**Ultima Actualización: 04/12/2021**
+**Ultima Actualización: 11/12/2021**
 
 ## Descripción 
 Estructura del proyectoDWES el cual contiene mi web para esa asignatura.
-En este apartado se encuentran los TEMAS de la asignatura.
+En este apartado se encuentran los TEMAS y aplicaciones de la asignatura.
 
 ## Front end
 - HTML
