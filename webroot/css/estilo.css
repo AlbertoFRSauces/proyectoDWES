@@ -23,6 +23,7 @@ body{
 	background-attachment:fixed;
 	position:relative;
 	background-color:#EEEEEE;
+        padding-bottom: 70px;
 }
 /* INICIO Titulo*/
 header h1{

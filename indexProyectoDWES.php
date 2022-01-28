@@ -102,7 +102,7 @@
                     <tr class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="../207DWESAplicaccionFinalAlberto2022/index.php"><figcaption class="titulofoto">Aplicacción Final Multicapa POO</figcaption></a>
+                                <a href="../207DWESAplicaccionFinalAlberto2022/index.php"><figcaption class="titulofoto">Aplicación Final</figcaption></a>
                             </figure>
                         </td>
                     </tr>
@@ -113,7 +113,7 @@
             <a href="../index.php"><img src="../proyectoDWES/webroot/css/img/atras.png" class="imageatras" alt="IconoAtras" /></a>
             <a href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank"><img href="https://github.com/AlbertoFRSauces/proyectoDWES" target="_blank" src="../proyectoDWES/webroot/css/img/github.png" class="imagegithub" alt="IconoGitHub" /></a>
             <p><a>&copy;</a><a href="http://daw207.ieslossauces.es/index.php">Alberto Fernández Ramírez</a> 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 05/01/2022 22:21 - Release 1.5</p>
+            <p>Ultima actualización: 28/01/2022 17:03 - Release 1.6</p>
         </footer>
     </body>
 </html>
